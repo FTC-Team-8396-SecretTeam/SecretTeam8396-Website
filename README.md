@@ -5,4 +5,4 @@ The team makes a website to keep track of where things are and when things are o
 
 =====================
 
-[Secret Team 8396]() - Competitive FIRST Robotics Team - FTC
+[Secret Team 8396](ftc8396.tpaarobotics.com) - Competitive FIRST Robotics Team - FTC
